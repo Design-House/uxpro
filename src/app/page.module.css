@@ -228,3 +228,9 @@
     transform: rotate(0deg);
   }
 }
+
+.sectionwrap{
+  padding: 80px;
+  float: left;
+  width: 100%;
+}
